@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mansour80p
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muhammad Mansour From Palestine :)
+- 👀 I’m interested in Front-end developer
+- 🌱 I’m currently learning react 
+- 💞️ I’m looking to collaborate on your company
+
 
 <!---
 mansour80p/mansour80p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
