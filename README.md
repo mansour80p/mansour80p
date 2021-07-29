@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Muhammad Mansour From Palestine :)
 - 👀 I’m interested in Front-end developer
-- 🌱 I’m currently learning react 
 - 💞️ I’m looking to collaborate on your company
 
 
